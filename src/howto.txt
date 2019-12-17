@@ -1,0 +1,5 @@
+ダウンロードするもの
+1. https://github-production-release-asset-2e65be.s3.amazonaws.com/23216272/52fd7300-1b8a-11ea-98d1-cb5799e3ea9c?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20191217%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191217T112147Z&X-Amz-Expires=300&X-Amz-Signature=93f84acf557450c105b600176065855d0271d0f55c3bbc7be791c27ca8e6df70&X-Amz-SignedHeaders=host&actor_id=37995076&response-content-disposition=attachment%3B%20filename%3DGit-2.24.1.2-64-bit.exe&response-content-type=application%2Foctet-stream
+2. https://download-cf.jetbrains.com/idea/ideaIU-2018.3.6.exe?_ga=2.159540989.1563227402.1576487836-363892015.1573623699
+
+ダウンロードが終わった後1,2の順でインストールする
